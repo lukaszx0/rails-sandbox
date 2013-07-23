@@ -3,6 +3,15 @@ source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', path: "../rails"
 
+# gem 'actionmailer', path: "../rails/actionmailer"
+# gem 'actionpack', path: "../rails/actionpack"
+# gem 'activerecord', path: "../rails/activerecord"
+# gem 'activesupport', path: "../rails/activesupport"
+# gem 'activemodel', path: "../rails/activemodel"
+# gem 'railties', path: "../rails/railties"
+
+gem 'rails-tilt', path: "../rails-tilt"
+
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 
