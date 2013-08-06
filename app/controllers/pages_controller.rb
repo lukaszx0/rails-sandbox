@@ -1,6 +1,5 @@
 class PagesController < ApplicationController
   def index
-    @foo = "bar"
-    render text: "dupa"
+    render text: "Trolololo"
   end
 end
