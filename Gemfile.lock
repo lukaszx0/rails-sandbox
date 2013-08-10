@@ -5,7 +5,6 @@ PATH
       actionpack (= 4.1.0.beta)
       mail (~> 2.5.4)
     actionpack (4.1.0.beta)
-      actionview (= 4.1.0.beta)
       activesupport (= 4.1.0.beta)
       rack (~> 1.5.2)
       rack-test (~> 0.6.2)
