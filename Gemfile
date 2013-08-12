@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
-# Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', path: "../rails"
+# Use rails from my fork and branch which extracted AV completly
+gem 'rails', github: "strzalek/rails", branch: "extract_renderers"
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
