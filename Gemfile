@@ -5,3 +5,4 @@ gem 'rails', github: "strzalek/rails", branch: "extract_renderers"
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
+gem 'thin'
